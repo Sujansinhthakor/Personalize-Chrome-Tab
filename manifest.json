@@ -1,0 +1,9 @@
+{
+    "name": "Beauityfy ",
+    "version": "1.0",
+    "description": "New version of Tab",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "homepage.html"
+    }
+}
