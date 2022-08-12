@@ -1,5 +1,6 @@
 # Personalize Chrome Tab 
-<hr></hr>
+## This chrome extension will change your New Tab into personalised dashboard that shows quotes and time 
+![tab](https://user-images.githubusercontent.com/88817533/184335690-bdd2891b-a3cf-451f-a4d7-869a3e996ec4.png)
 
 # Getting Started
  ### 1.First clone this repository to local system
