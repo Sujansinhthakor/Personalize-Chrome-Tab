@@ -10,9 +10,9 @@ function updateTime(){
     var t = document.getElementById('currentTime');
     t.innerHTML = time;
     //add your name here
-    const greet1 = "Good morning, Sujan.";
-    const greet2 = "Good afternoon, Sujan.";
-    const greet3 = "Good evening, Sujan.";
+    const greet1 = "Good morning, Arthur.";
+    const greet2 = "Good afternoon, Arthur.";
+    const greet3 = "Good evening, Arthur.";
     
     var greeting = document.getElementById('greetingHeading');
     
